@@ -1,0 +1,22 @@
+.results {
+    margin: 5%;
+}
+
+.results h1 {
+    text-align:center;
+    padding: 2px;
+}
+
+.results table {
+    width: 100%;
+}
+
+.results tr {
+    background-color: white;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 8px;
+}

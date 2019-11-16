@@ -1,0 +1,17 @@
+.supporters-login {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.supporters-login span {
+    position: absolute;
+    top: 34%;
+}
+
+.supporters-login img {
+    position: absolute;
+    width: 70%;
+    background-color: white;
+    top: 40%;
+}

@@ -1,0 +1,10 @@
+.supporters-home {
+    width: 100%;
+}
+
+.supporters-home span {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}

@@ -1,0 +1,17 @@
+.home {
+    position: relative;
+    top: 25%;
+}
+.home span {
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    margin-top: 45%;
+}
+
+.home h1 {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 23%;
+}

@@ -1,0 +1,19 @@
+.record-button {
+    box-sizing: border-box;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.record-button img {
+    width: 50%;
+    border: 5px outset gray;
+    padding: 30px;
+    border-radius: 100%;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(229,231,254,1) 100%);
+}
+
+.record-button img:active {
+    border: 5px inset gray;
+    background: linear-gradient(180deg, rgba(229,231,254,1) 0%, rgba(231,235,236,1) 100%);
+}

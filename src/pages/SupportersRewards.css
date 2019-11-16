@@ -1,0 +1,19 @@
+.supporters-rewards h1 {
+    text-align:center;
+    padding: 2px;
+}
+
+.supporters-rewards table {
+    width: 100%;
+}
+
+.supporters-rewards tr {
+    background-color: white;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 8px;
+}
+

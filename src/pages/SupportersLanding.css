@@ -1,0 +1,17 @@
+.supporters-landing {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    text-align:center;
+}
+
+.supporters-landing span {
+    margin-top: 10%;
+}
+
+.supporters-landing button {
+    padding: 8%;
+    width: 80%;
+}
